@@ -120,6 +120,16 @@ In this guide, we've covered how to diagnose and repair common issues with stand
 
 * **Troubleshooting Flowchart:**
  (Insert a flowchart here for easy reference)
+
+
+
+![A fan flowchart](https://github.com/EmmanuelOsaea/My-Manual-Report-Project-/assets/155497725/a2afd08a-c64a-4a3d-bb92-3560a20e7be4)
+
+
+
+
+
+
 * **Glossary of Terms:**
     * **Blade:** Rotating part that moves air.
     * **Grille:** Protective cover over blades.
