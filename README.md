@@ -123,7 +123,8 @@ In this guide, we've covered how to diagnose and repair common issues with stand
 
 
 
-![A fan flowchart](https://github.com/EmmanuelOsaea/My-Manual-Report-Project-/assets/155497725/a2afd08a-c64a-4a3d-bb92-3560a20e7be4)
+![image](https://github.com/EmmanuelOsaea/My-Manual-Report-Project-/assets/155497725/a4afba96-d340-472f-9be4-01ab27f9f897)
+
 
 
 
