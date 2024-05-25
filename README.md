@@ -122,8 +122,8 @@ In this guide, we've covered how to diagnose and repair common issues with stand
  (Insert a flowchart here for easy reference)
 
 
+![image](https://github.com/EmmanuelOsaea/My-Manual-Report-Project-/assets/155497725/c49a6ad0-2a1e-4e26-800f-2bfd17cec6e7)
 
-![image](https://github.com/EmmanuelOsaea/My-Manual-Report-Project-/assets/155497725/a4afba96-d340-472f-9be4-01ab27f9f897)
 
 
 
