@@ -62,41 +62,41 @@
   
    **Common Problems and Troubleshooting** 
    
-     * **Fan Not Turning On:**
+   * **Fan Not Turning On:**
         * Check the power source and cord.
         * Ensure the fan is securely plugged in.
      
-     * **Fan Making Noise:**
+   * **Fan Making Noise:**
         * Tighten screws.
         * Clean blades and motor.
         * Apply lubricating oil if needed.
   
-    * **Fan Not Oscillating:** 
+   * **Fan Not Oscillating:** 
        * Check the oscillation switch/button.
        * Remove any obstructions.
        
-    * **Step-by-Step Repair Guide**
+   * **Step-by-Step Repair Guide**
      
-        **Safety Precautions:**
+   **Safety Precautions:**
            
            * Unplug the fan before starting any repairs.
            * Wear safety goggles to protect your eyes from debris.
           
-       **Disassembly Instructions:** 
+   **Disassembly Instructions:** 
         
          * Remove the fan cover and blade.
      
-     **Inspection and Diagnosis:** 
+   **Inspection and Diagnosis:** 
        
         * Check for obstructions and clean the fan.
         * Ensure the motor is not overheating or making unusual sounds.
      
-     **Repair Techniques:** 
+   **Repair Techniques:**
        
         * Put the blade and cover back on securely.
         * Test the fan to see if the issue is resolved.
      
-     **Maintenance Tips for Longevity**
+   **Maintenance Tips for Longevity**
      
         **Cleaning and Dusting:**
     
